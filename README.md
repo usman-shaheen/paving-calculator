@@ -6,7 +6,7 @@ A simple web-based calculator to estimate the cost of paving a home's outdoor ar
 
 ## Demo
 
-You can try out the live demo of the Paving Calculator here: [Paving Calculator Demo](https://your-demo-link.com)
+You can try out the live demo of the Paving Calculator here: [Paving Calculator Demo](https://marinipavingandmasonry.com)
 
 ## Table of Contents
 
@@ -78,18 +78,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Acknowledgments
 Special thanks to Marini Paving & Masonry for the inspiration.
 Contact
-If you have any questions or feedback, please feel free to contact us at [marinipaving2015@gmail.com].
+If you have any questions or feedback, please feel free to contact us at marinipaving2015@gmail.com
 
 Enjoy calculating your paving costs!
-
-Replace the following placeholders with your actual project details:
-
-- `[Paving Calculator Demo](https://your-demo-link.com)` with the link to your deployed calculator.
-- `[your-username]` with your GitHub username or organization name.
-- `screenshot.png` with the actual filename of your project's screenshot (if you have one).
-- `[your-demo-link.com]` with the actual link to your live demo.
-- `[your-email@example.com]` with your contact email address.
-- `LICENSE.md` if you have a different license file.
-- `[Marini Paving & Masonry](https://marinipavingandmasonry.com/)` with the appropriate source or inspiration for your project.
-
-Once you've customized the README.md file to your project, save it in your project directory and commit it to your GitHub repository.
