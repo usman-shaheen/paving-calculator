@@ -2,8 +2,6 @@
 
 A simple web-based calculator to estimate the cost of paving a home's outdoor area. This calculator takes the total area in square feet and the price per square foot as inputs and provides an estimated cost for paving.
 
-![Paving Calculator Screenshot](screenshot.png)
-
 ## Demo
 
 You can try out the live demo of the Paving Calculator here: [Paving Calculator Demo](https://marinipavingandmasonry.com)
